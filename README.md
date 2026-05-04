@@ -1,10 +1,12 @@
 # labdnt
 
-A new Flutter project.
+9 lab đa nền tảng
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Họ và tên: Lê Anh Nhân
+MSV: 22IT.B152
+
 
 A few resources to get you started if this is your first Flutter project:
 
